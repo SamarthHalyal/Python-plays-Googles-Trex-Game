@@ -17,3 +17,5 @@ This is how actually the code is see the game run on browser. The Black box runn
 code and appropriate jumps are made.
 
 ![Alt text](https://user-images.githubusercontent.com/12893395/34918250-abef3630-f975-11e7-9a05-93b81d4a9fe3.gif)
+
+I have tweaked a bit of the actual code for the game to add the Jump button to be "w" instead of UP button..
