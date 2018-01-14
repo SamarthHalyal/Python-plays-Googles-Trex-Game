@@ -6,5 +6,5 @@
  anyone interested may pull the project or star it and develop it furthur to do so.
  
  
-![Alt text](https://user-images.githubusercontent.com/12893395/34882447-9d30a768-f7dc-11e7-82de-9b8d4cc5430d.gif)
+![Alt text](https://user-images.githubusercontent.com/12893395/34918026-2403fc58-f973-11e7-915e-759fed8f543a.gif)
 
