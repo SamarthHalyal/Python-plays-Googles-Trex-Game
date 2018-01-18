@@ -13,9 +13,5 @@
 ![Alt text](https://user-images.githubusercontent.com/12893395/34918026-2403fc58-f973-11e7-915e-759fed8f543a.gif)
 
 
-This is how actually the code is see the game run on browser. The Black box running is the cv2 window that is analysed by the python
-code and appropriate jumps are made.
-
-![Alt text](https://user-images.githubusercontent.com/12893395/34918250-abef3630-f975-11e7-9a05-93b81d4a9fe3.gif)
-
-I have tweaked a bit of the actual code for the game to add the Jump button to be "w" instead of UP button..
+I have tweaked a bit of the actual code for the game to add the Jump button to be "w" instead of UP button and "s" instead of DOWN button 
+to duck..
